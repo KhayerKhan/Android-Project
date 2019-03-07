@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Doctor</string>
+    <string name="title_activity_labaid">Labaid</string>
+    <string name="title_activity_splash">splash</string>
+
+    <string name="title_activity_spalsh">spalsh</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+    <string name="mysplcont">Submitted BY:\nMd Abul Khayer \nID:151010200026 \nDept:CSE</string>
+
+
+    <string name="sirsplcont">Submitted To:\nRonjon Kundu\n
+        Lecturer Dept. of CSE/IT</string>
+    <string name="title_activity_splash_activitys">SplashActivitys</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+
+
+</resources>

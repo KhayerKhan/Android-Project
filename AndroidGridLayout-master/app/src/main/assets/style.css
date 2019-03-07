@@ -1,0 +1,43 @@
+@media (max-width: 824px) {
+   .some-class {
+     display: block;
+     width: 100%;
+   }
+ }
+
+ .mt-0 {
+   margin-top: 0 !important;
+   line-height: 0.5 ;
+ }
+
+ .some-class:hover {
+    background-color: #51ace098;
+ }
+ 
+ .doctor-description{
+    padding-top: 50px;
+ }
+ .card-header{
+    text-align: center;
+   background-color: seagreen;
+   font-style: italic;
+   height: 65px;
+  
+ }
+ .container-fluid{
+
+border: 2px solid #050000;
+
+
+ }
+ img{
+
+  margin-top:5px;
+  height: 210px;
+    width:220px;
+  margin-left:5px;
+  margin-bottom: 5px;
+   
+
+ }
+ 
